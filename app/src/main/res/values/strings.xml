@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Instagram Login</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_info">User Media Info</string>
+    <string name="log_in">Login</string>
+    <string name="user_ino">User Profile</string>
+    <string name="back">Back</string>
+
+</resources>
